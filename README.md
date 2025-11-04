@@ -1,58 +1,47 @@
-# 💫 About Me
-I'm **Prabhav Jain**, a systems and automation-focused engineer who builds real-world platforms that eliminate manual work and improve operational efficiency.  
+# 💫 About Me:
+Hi, I'm **Prabhav Jain**, a B.Tech CSE student at Jain University, Bangalore.  
+I focus on building automation-driven systems, backend workflows, and NFC-based access & payment solutions.  
+I enjoy creating real-world platforms that remove manual effort and scale efficiently.
 
-I work across backend development, systems design, event workflows, and applied automation using Python, JavaScript, and modern web stacks. My primary focus is building reliable, production-grade systems with practical use — not prototypes.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kuoki) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhavjain2004) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@_kuoki) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadimate2004@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/prabhavjain2004)
 
-### Key Interests
-- Automation & workflow systems  
-- Backend architecture & APIs  
-- Cashless systems (NFC / QR)  
-- Event & access-control systems  
-- Applied AI for real-world tasks (not just prompts)  
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=flat&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 
-### What I Do
-- Build automation systems that reduce manual effort  
-- Design APIs & service architectures using modern stacks  
-- Integrate payment, authentication & logging systems  
-- Develop lightweight AI tools for code & dev workflows  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=prabhavjain2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=prabhavjain2004&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhavjain2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Currently Learning
-- Scalable workflow & queue systems  
-- Real-time infra (WebSockets, workers, Redis)  
-- Efficient distributed system patterns  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=prabhavjain2004&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### Ask Me About
-- Building production automation systems  
-- API-driven workflows and backend design  
-- Practical AI/LLM systems for dev & ops automation  
-- NFC / QR based event access & payment systems  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Fun Thought
-Automation isn't about avoiding work — it's about removing friction so systems run by themselves.
-
----
-
-## 🌐 Socials
-[LinkedIn](https://linkedin.com/in/prabhavjain2004) • [GitHub](https://github.com/prabhavjain2004) • Email: aadimate2004@gmail.com
-
----
-
-## 💻 Tech Stack
-**Languages:** Python, JavaScript, TypeScript  
-**Frameworks:** Node.js, Django, Flask, React, Flutter  
-**Databases:** PostgreSQL, MySQL, Supabase, Firebase  
-**Infra & Tools:** Git, AWS, Vercel, CI/CD, Webhooks, Redis  
-**Core:** Automation, REST APIs, DSA, Real-time systems, Payment Systems
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=prabhavjain2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=prabhavjain2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=prabhavjain2004&theme=rose&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=prabhavjain2004&theme=rose&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhavjain2004&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=prabhavjain2004&icon=2&color=5)](https://visitcount.itsvg.in)
+<!-- Created via GPRM Template · Modified for automation & systems engineering profile -->
